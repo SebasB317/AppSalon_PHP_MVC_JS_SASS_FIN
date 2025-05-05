@@ -1,5 +1,5 @@
 <?php
-// views/landing.php
+   //views/landing.php
 ?>
 
 <!DOCTYPE html>
